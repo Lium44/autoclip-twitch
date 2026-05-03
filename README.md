@@ -1,4 +1,4 @@
-# 🚀 Twitch Helix Clipper Pro (by Lium)
+# 🚀 Twitch Clipper (by Lium)
 
 Une application moderne et stylée exploitant l'**API Twitch Helix** pour créer des clips instantanément, soit par un raccourci clavier personnalisé, soit automatiquement via un timer.
 
